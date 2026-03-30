@@ -6,7 +6,7 @@ Chào mừng bạn đến với dự án thiết kế giao diện tiệm bánh c
 *(Dưới đây là ảnh chụp tổng quan của trang web)*
 
 <p align="center">
-  <img src="img/bakedesign_NhatKy" alt="Bake Landing Page Preview" width="800">
+  <img src="img/bakedesign_NhatKy.png" alt="Bake Landing Page Preview" width="800">
 </p>
 
 ---
